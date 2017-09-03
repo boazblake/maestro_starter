@@ -1,0 +1,1 @@
+console.error("SyntaxError: /home/blake/workspace/maestro_starter/src/scripts/app.js: Unexpected token (8:0) while parsing file: /home/blake/workspace/maestro_starter/src/scripts/app.js");
